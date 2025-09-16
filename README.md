@@ -1,2 +1,2 @@
 # portabilidadecredito
-sandbox para teste de portabilidade de crédito do open finance
+sandbox para teste de portabilidade de crédito do open finance BRASIL
